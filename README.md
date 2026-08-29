@@ -1,211 +1,274 @@
-🐦 Bird Species Observation Analysis
+# 🐦 Bird Species Observation Analysis
 
 <p align="center">
-  <img src="screenshots/overview.png" width="100%" alt="Bird Species Observation Analysis Dashboard">
+
+<img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/overview.png" width="95%" alt="Bird Species Observation Analysis Dashboard">
+
 </p>
 
-<h3 align="center">Interactive Biodiversity Analytics Dashboard</h3>
+<h2 align="center">🌿 Interactive Biodiversity Analytics Dashboard</h2>
 
 <p align="center">
-  Explore species diversity, habitat patterns, environmental conditions, temporal trends,
-  observer activity, and conservation monitoring through an interactive Streamlit dashboard.
+An interactive Streamlit dashboard for exploring bird species,
+habitat patterns, environmental conditions, temporal trends,
+observer activity and conservation monitoring.
 </p>
 
-🌿 Project Overview
+<p align="center">
 
-Bird Species Observation Analysis is an interactive data analytics dashboard built to turn bird-observation records into clear, decision-ready visual insights.
+<a href="https://yashvardhan-bird-analytics.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</a>
 
-The application brings together biodiversity, habitat, environmental, temporal, observer, and conservation analysis in one unified dashboard.
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-The dashboard combines:
+<img src="https://img.shields.io/badge/Pandas-Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white">
 
-📊 KPI-driven reporting
+<img src="https://img.shields.io/badge/Plotly-Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
 
-🔎 Interactive filtering
+</p>
 
-📈 Multiple chart types
+---
 
-📋 Detailed data tables
+# 🌿 Project Overview
 
-💡 Business insights
+**Bird Species Observation Analysis** is an interactive data analytics
+dashboard designed to transform bird-observation records into
+clear, meaningful and decision-ready visual insights.
 
-🎯 Business recommendations
+The dashboard provides a centralized analytical environment for
+understanding:
 
-🚀 Live Dashboard
+- 🐦 Species diversity
+- 🌳 Habitat distribution
+- 📍 Observation locations
+- 🌦️ Environmental conditions
+- 📅 Temporal trends
+- 👤 Observer activity
+- 🛡️ Conservation monitoring
 
-Streamlit App:
+The application combines **KPI-driven reporting, interactive
+visualizations, detailed tables, business insights and recommendations**
+into one unified dashboard.
+
+---
+
+# 🚀 Live Dashboard
+
+### 🌐 Streamlit Application
+
 https://yashvardhan-bird-analytics.streamlit.app/
 
-✨ Dashboard Highlights
+### 💻 GitHub Repository
 
-🏠 Overview
+https://github.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis
 
-A high-level view of the complete dataset with key metrics, observation activity, habitat distribution, species highlights, and decision-oriented insights.
+---
 
-🐦 Species Analysis
+# 📊 Dashboard Overview
 
-Explore species diversity, observation frequency, common and scientific species information, and species distribution patterns.
+## 🏠 Overview
 
-🌳 Habitat & Location Analysis
+The Overview page provides an executive-level summary of the complete
+bird observation dataset.
 
-Understand habitat representation, observation-site coverage, species distribution, and monitoring hotspots.
+### Key Features
 
-🌦️ Environmental Analysis
+- Total observations
+- Unique species
+- Observation sites
+- Active observers
+- Average temperature
+- Monthly observation activity
+- Habitat observation distribution
+- Species highlights
+- Business insights
+- Business recommendations
 
-Analyze temperature conditions associated with observations and compare environmental patterns across habitats.
+<img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/overview.png" width="95%" alt="Overview Dashboard">
 
-📅 Temporal Analysis
+---
 
-Study monthly and yearly observation activity, seasonal concentration, species diversity, and temporal patterns.
+# 🐦 Species Analysis
 
-👤 Observation Analysis
+The Species Analysis module focuses on species diversity,
+observation frequency and species distribution.
 
-Evaluate observer participation, observation volume, species coverage, and observer-by-species patterns.
+### Key Features
 
-🛡️ Conservation Analysis
+- Unique scientific species
+- Unique common species
+- Species observation frequency
+- Top observed bird species
+- Species distribution
+- Habitat-based species analysis
+- Interactive species exploration
 
-Translate observation data into biodiversity-monitoring insights by examining species coverage, habitat representation, and monitoring concentration.
+<img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/species-analysis.png" width="95%" alt="Species Analysis Dashboard">
 
-📸 Dashboard Screenshots
+---
 
-🏠 Overview
+# 🌳 Habitat & Location Analysis
 
-<p align="center">
-  <img src="screenshots/overview.png" width="96%" alt="Overview Dashboard">
-</p>
+This module analyzes bird observations across different habitats
+and observation sites.
 
-🐦 Species Analysis
+### Key Features
 
-<p align="center">
-  <img src="screenshots/species-analysis.png" width="96%" alt="Species Analysis Dashboard">
-</p>
+- Habitat diversity
+- Observation-site coverage
+- Habitat observation distribution
+- Species representation by habitat
+- Monitoring hotspots
+- Habitat-level insights
 
-🌳 Habitat & Location Analysis
+<img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/habitat-location.png" width="95%" alt="Habitat and Location Analysis Dashboard">
 
-<p align="center">
-  <img src="screenshots/habitat-location.png" width="96%" alt="Habitat and Location Analysis Dashboard">
-</p>
+---
 
-🌦️ Environmental Analysis
+# 🌦️ Environmental Analysis
 
-<p align="center">
-  <img src="screenshots/environmental-analysis.png" width="96%" alt="Environmental Analysis Dashboard">
-</p>
+The Environmental Analysis module examines environmental conditions
+associated with bird observations.
 
-📅 Temporal Analysis
+### Key Features
 
-<p align="center">
-  <img src="screenshots/temporal-analysis.png" width="96%" alt="Temporal Analysis Dashboard">
-</p>
+- Average temperature
+- Minimum temperature
+- Maximum temperature
+- Temperature range
+- Temperature distribution
+- Temperature vs observation activity
+- Habitat environmental comparison
+- Environmental summary table
 
-👤 Observation Analysis
+<img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/environmental-analysis.png" width="95%" alt="Environmental Analysis Dashboard">
 
-<p align="center">
-  <img src="screenshots/observation-analysis.png" width="96%" alt="Observation Analysis Dashboard">
-</p>
+---
 
-🛡️ Conservation Analysis
+# 📅 Temporal Analysis
 
-<p align="center">
-  <img src="screenshots/conservation-analysis.png" width="96%" alt="Conservation Analysis Dashboard">
-</p>
+The Temporal Analysis module identifies changes in observation activity
+across months and years.
 
-📌 Additional Dashboard View
+### Key Features
 
-<p align="center">
-  <img src="screenshots/additional-view.png" width="96%" alt="Additional Dashboard View">
-</p>
+- Monthly observation trends
+- Yearly observation trends
+- Peak observation periods
+- Species diversity patterns
+- Habitat activity patterns
+- Temperature trends
+- Temporal insights and recommendations
 
-📊 Key KPIs
+<img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/temporal-analysis.png" width="95%" alt="Temporal Analysis Dashboard">
 
-The dashboard provides quick operational and analytical metrics such as:
+---
 
-KPI
+# 👤 Observation Analysis
 
-Purpose
+The Observation Analysis module evaluates observer participation
+and monitoring contribution.
 
-🐦 Total Observations
+### Key Features
 
-Measures overall observation volume
+- Total observers
+- Total observations
+- Average observations per observer
+- Species coverage by observer
+- Observer contribution
+- Observer × Species analysis
+- Observation intensity heatmap
 
-🧬 Unique Species
+<img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/observation-analysis.png" width="95%" alt="Observation Analysis Dashboard">
 
-Indicates recorded species diversity
+---
 
-📍 Observation Sites
+# 🛡️ Conservation Analysis
 
-Shows monitoring-site coverage
+The Conservation Analysis module focuses on biodiversity monitoring
+and conservation-oriented decision support.
 
-👤 Active Observers
+### Key Features
 
-Measures observer participation
+- Species monitoring coverage
+- Habitat representation
+- Monitoring-site coverage
+- Observation concentration
+- Biodiversity monitoring insights
+- Conservation recommendations
 
-🌡️ Average Temperature
+<img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/conservation-analysis.png" width="95%" alt="Conservation Analysis Dashboard">
 
-Summarizes environmental conditions
+---
 
-🌳 Habitat Types
+# 📈 Visualization Techniques
 
-Shows represented habitat diversity
+The dashboard uses multiple visualization techniques depending on
+the analytical question:
 
-📅 Active Years
+- 📊 Bar Charts
+- 📈 Line Charts
+- 🍩 Donut Charts
+- 🔵 Scatter Plots
+- 🟣 Bubble Charts
+- 🔥 Heatmaps
+- 📋 Interactive Data Tables
+- 🎯 KPI Cards
 
-Indicates time coverage of the dataset
+The goal is to make comparisons, trends, concentration and
+monitoring gaps easy to interpret.
 
-📈 Visual Analytics
+---
 
-The dashboard uses multiple visualization types depending on the analytical question:
+# 📊 Key KPIs
 
-📊 Horizontal and vertical bar charts
+| KPI | Description |
+|---|---|
+| 🐦 Total Observations | Overall number of bird observation records |
+| 🧬 Unique Species | Number of distinct bird species recorded |
+| 📍 Observation Sites | Number of monitoring locations |
+| 👤 Active Observers | Number of observers contributing records |
+| 🌡️ Average Temperature | Average temperature during observations |
+| 🌳 Habitat Types | Number of represented habitat types |
+| 📅 Active Years | Number of years represented in the dataset |
 
-📈 Trend and line charts
+---
 
-🍩 Donut charts
+# 🧠 Business Insights
 
-🔵 Scatter / bubble visualizations
+The dashboard converts raw observation data into analytical
+and business-oriented insights.
 
-🔥 Heatmaps
+Examples include:
 
-📋 Interactive tables
+- Identification of highly observed species.
+- Detection of under-represented habitats.
+- Identification of peak observation periods.
+- Comparison of observer contribution.
+- Analysis of environmental conditions.
+- Identification of monitoring concentration.
+- Detection of observation coverage gaps.
 
-🎯 KPI cards
+---
 
-Each visualization is designed to make comparisons, patterns, concentration, and monitoring gaps easier to interpret.
+# 🎯 Business Recommendations
 
-💡 Business Insights
+The dashboard provides actionable recommendations such as:
 
-The dashboard converts raw observations into business-oriented analytical findings, including:
+- Improve monitoring coverage in under-represented habitats.
+- Maintain consistent observation schedules.
+- Investigate low-observation periods.
+- Prioritize high-activity monitoring periods.
+- Improve observation-site coverage.
+- Use balanced habitat sampling strategies.
+- Support conservation planning through observation patterns.
 
-Identifying high-observation species and habitats.
+---
 
-Detecting uneven monitoring coverage.
+# 🔄 Analytical Workflow
 
-Highlighting peak and low observation periods.
-
-Comparing observer contribution and species coverage.
-
-Understanding environmental conditions associated with observation activity.
-
-Identifying potential monitoring hotspots and data gaps.
-
-🎯 Business Recommendations
-
-The analysis supports practical recommendations such as:
-
-Increase monitoring in under-represented habitats and locations.
-
-Maintain consistent observation coverage throughout the year.
-
-Investigate low-observation periods before interpreting them as reduced bird activity.
-
-Balance field-monitoring responsibilities across observers.
-
-Prioritize high-value monitoring periods and locations.
-
-Use balanced sampling before making biodiversity or resource-allocation decisions.
-
-🔄 Analytical Workflow
-
+```text
 Bird Observation Data
         ↓
 Data Cleaning & Preparation
@@ -224,136 +287,6 @@ Observer Analysis
         ↓
 Conservation Analysis
         ↓
-Interactive Visualization
-        ↓
 Business Insights
         ↓
 Business Recommendations
-
-🛠️ Technology Stack
-
-Category
-
-Technologies
-
-Programming
-
-Python
-
-Dashboard
-
-Streamlit
-
-Data Analysis
-
-Pandas, NumPy
-
-Visualization
-
-Plotly, Plotly Express
-
-Database / SQL
-
-MySQL, SQL
-
-Development
-
-Visual Studio Code, Jupyter Notebook
-
-📂 Project Structure
-
-Bird-species-observation-analysis/
-│
-├── app.py
-├── data_processing.py
-├── requirements.txt
-├── EDA.ipynb
-├── bird_analysis.sql
-├── bird_observation_cleaned.csv
-│
-├── screenshots/
-│   ├── overview.png
-│   ├── species-analysis.png
-│   ├── habitat-location.png
-│   ├── environmental-analysis.png
-│   ├── temporal-analysis.png
-│   ├── observation-analysis.png
-│   ├── conservation-analysis.png
-│   └── additional-view.png
-│
-└── README.md
-
-⚙️ Run Locally
-
-Clone the repository:
-
-git clone https://github.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis.git
-
-Move into the project:
-
-cd Bird-species-observation-analysis
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run the dashboard:
-
-streamlit run app.py
-
-📊 Current Dataset Snapshot
-
-The current dashboard presents approximately:
-
-3,921 observations
-
-81 unique scientific species
-
-80 unique common species
-
-2 observation sites
-
-3 active observers
-
-2 represented habitat types
-
-These values are filter-dependent and update with the selected dataset view.
-
-🎓 Project Objectives
-
-This project demonstrates how data analytics and interactive visualization can be used to:
-
-Understand biodiversity observation patterns.
-
-Compare habitats and observation locations.
-
-Analyze environmental conditions.
-
-Identify seasonal and temporal trends.
-
-Measure observer participation.
-
-Support biodiversity monitoring.
-
-Convert analytical findings into actionable recommendations.
-
-👨‍💻 Author
-
-Yashvardhan Yadav
-
-MBA (Data Science & AI)
-
-Interested in:
-
-Data Analytics • Business Intelligence • Data Visualization • Python • SQL • Streamlit
-
-🔗 Connect
-
-GitHub:
-https://github.com/yashvardhanyadav2004-bot
-
-<p align="center">
-  <b>🐦 Observe • Analyze • Discover</b>
-  <br><br>
-  Made by <b>Yashvardhan Yadav</b>
-</p>
