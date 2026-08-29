@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import mysql.connector
 import streamlit.components.v1 as components
 import time
 
@@ -1609,18 +1608,21 @@ html {
 # DATABASE CONNECTION
 # =========================================================
 
-@st.cache_resource
-def get_connection():
+# =========================================================
+# LOAD DATA FROM CSV
+# =========================================================
 
-    return mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="Yash1693051043",
-        database="bird_species_analysis"
-    )
+@st.cache_data
+def load_data():
+
+    data_path = "bird_observation_cleaned.csv"
+
+    data = pd.read_csv(data_path)
+
+    return data
 
 
-conn = get_connection()
+df = load_data()
 
 
 # =========================================================
