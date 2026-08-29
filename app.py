@@ -1622,25 +1622,6 @@ def load_data():
 
 df = load_data()
 
-
-# =========================================================
-# LOAD DATA
-# =========================================================
-
-@st.cache_data
-def load_data():
-
-    query = """
-    SELECT *
-    FROM bird_observations
-    """
-
-    return pd.read_sql(query, conn)
-
-
-df = load_data()
-
-
 # =========================================================
 # SIDEBAR - DASHBOARD NAVIGATION
 # =========================================================
