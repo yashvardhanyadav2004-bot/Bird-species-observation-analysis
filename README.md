@@ -37,7 +37,7 @@
 
 **Bird Species Observation Analysis** is an interactive data analytics dashboard developed to transform bird observation records into meaningful and decision-ready visual insights.
 
-The dashboard brings together multiple dimensions of biodiversity analysis into a single platform, including:
+The dashboard brings together multiple dimensions of biodiversity analysis into a single platform:
 
 - 🐦 Species Diversity
 - 🌳 Habitat & Location
@@ -45,8 +45,6 @@ The dashboard brings together multiple dimensions of biodiversity analysis into 
 - 📅 Temporal Trends
 - 👤 Observer Activity
 - 🛡️ Conservation Monitoring
-
-The application combines **KPI-based reporting, interactive charts, detailed data tables, business insights and recommendations** to provide a complete analytical view of bird observation data.
 
 ---
 
@@ -57,7 +55,7 @@ The application combines **KPI-based reporting, interactive charts, detailed dat
 The Overview page provides a high-level summary of the dataset using KPIs, observation trends, habitat distribution and species highlights.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/overview.png" width="95%" alt="Overview Dashboard">
+  <img src="./overview.png" width="95%" alt="Overview Dashboard">
 </p>
 
 ---
@@ -77,7 +75,7 @@ The Species Analysis page focuses on species diversity, observation frequency an
 - Scientific classification
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/species-analysis.png" width="95%" alt="Species Analysis">
+  <img src="./species-analysis.png" width="95%" alt="Species Analysis Dashboard">
 </p>
 
 ---
@@ -96,8 +94,9 @@ This module analyzes observation coverage across different habitats and monitori
 - Habitat coverage
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/habitat-location.png" width="95%" alt="Habitat and Location Analysis">
+  <img src="./habitat-location.png" width="95%" alt="Habitat and Location Analysis Dashboard">
 </p>
+
 ---
 
 ## 🌦️ Environmental Analysis
@@ -116,7 +115,7 @@ The Environmental Analysis page explores temperature patterns and environmental 
 - Environmental data summary
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/environmental-analysis.png" width="95%" alt="Environmental Analysis">
+  <img src="./environmental-analysis.png" width="95%" alt="Environmental Analysis Dashboard">
 </p>
 
 ---
@@ -136,7 +135,7 @@ The Temporal Analysis module examines how bird observation activity changes over
 - Peak observation periods
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/temporal-analysis.png" width="95%" alt="Temporal Analysis">
+  <img src="./temporal-analysis.png" width="95%" alt="Temporal Analysis Dashboard">
 </p>
 
 ---
@@ -155,7 +154,7 @@ The Observation Analysis page evaluates observer contribution, species coverage 
 - Observation intensity heatmap
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/observation-analysis.png" width="95%" alt="Observation Analysis">
+  <img src="./observation-analysis.png" width="95%" alt="Observation Analysis Dashboard">
 </p>
 
 ---
@@ -174,14 +173,12 @@ The Conservation Analysis module provides a conservation-oriented view of biodiv
 - Conservation recommendations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/conservation-analysis.png" width="95%" alt="Conservation Analysis">
+  <img src="./conservation-analysis.png" width="95%" alt="Conservation Analysis Dashboard">
 </p>
 
 ---
 
 # 📌 Key Dashboard KPIs
-
-The dashboard provides KPI cards to quickly understand the current dataset.
 
 | KPI | Description |
 |---|---|
@@ -196,8 +193,6 @@ The dashboard provides KPI cards to quickly understand the current dataset.
 ---
 
 # 📊 Current Dataset Snapshot
-
-The current dashboard shows:
 
 | Metric | Value |
 |---|---:|
@@ -215,10 +210,6 @@ The current dashboard shows:
 
 # 📈 Visualization Techniques
 
-Different chart types are used according to the analytical requirement.
-
-### Visualizations
-
 - 📊 Bar Charts
 - 📈 Line Charts
 - 🍩 Donut Charts
@@ -228,15 +219,11 @@ Different chart types are used according to the analytical requirement.
 - 📋 Interactive Data Tables
 - 🎯 KPI Cards
 
-These visualizations are designed to make **comparisons, trends, patterns and observation gaps** easier to understand.
-
 ---
 
 # 🧠 Business Insights
 
 The dashboard converts raw observation records into meaningful analytical insights.
-
-Examples include:
 
 - Identifying species with the highest observation frequency.
 - Identifying habitats with higher observation coverage.
@@ -249,10 +236,6 @@ Examples include:
 ---
 
 # 🎯 Business Recommendations
-
-The dashboard also provides decision-oriented recommendations based on the observed patterns.
-
-Examples include:
 
 - Increase monitoring coverage in under-represented habitats.
 - Maintain consistent observation schedules throughout the year.
