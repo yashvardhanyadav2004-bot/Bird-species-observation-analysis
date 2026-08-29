@@ -1606,10 +1606,10 @@ html {
 """, unsafe_allow_html=True)
 # =========================================================
 # DATABASE CONNECTION
-# =========================================================
+# ========================================================
 
 # =========================================================
-# LOAD DATA FROM CSV
+# LOAD DATA
 # =========================================================
 
 @st.cache_data
@@ -1617,9 +1617,7 @@ def load_data():
 
     data_path = "bird_observation_cleaned.csv"
 
-    data = pd.read_csv(data_path)
-
-    return data
+    return pd.read_csv(data_path)
 
 
 df = load_data()
