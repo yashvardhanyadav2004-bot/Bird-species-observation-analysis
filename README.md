@@ -57,7 +57,7 @@ The application combines **KPI-based reporting, interactive charts, detailed dat
 The Overview page provides a high-level summary of the dataset using KPIs, observation trends, habitat distribution and species highlights.
 
 <p align="center">
-  <img src="screenshots/overview.png" width="95%" alt="Bird Species Observation Analysis Overview Dashboard">
+  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/overview.png" width="95%" alt="Overview Dashboard">
 </p>
 
 ---
@@ -77,7 +77,7 @@ The Species Analysis page focuses on species diversity, observation frequency an
 - Scientific classification
 
 <p align="center">
-  <img src="screenshots/species-analysis.png" width="95%" alt="Species Analysis Dashboard">
+  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/species-analysis.png" width="95%" alt="Species Analysis">
 </p>
 
 ---
@@ -96,9 +96,8 @@ This module analyzes observation coverage across different habitats and monitori
 - Habitat coverage
 
 <p align="center">
-  <img src="screenshots/habitat-location.png" width="95%" alt="Habitat and Location Analysis Dashboard">
+  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/habitat-location.png" width="95%" alt="Habitat and Location Analysis">
 </p>
-
 ---
 
 ## 🌦️ Environmental Analysis
@@ -117,7 +116,7 @@ The Environmental Analysis page explores temperature patterns and environmental 
 - Environmental data summary
 
 <p align="center">
-  <img src="screenshots/environmental-analysis.png" width="95%" alt="Environmental Analysis Dashboard">
+  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/environmental-analysis.png" width="95%" alt="Environmental Analysis">
 </p>
 
 ---
@@ -137,7 +136,7 @@ The Temporal Analysis module examines how bird observation activity changes over
 - Peak observation periods
 
 <p align="center">
-  <img src="screenshots/temporal-analysis.png" width="95%" alt="Temporal Analysis Dashboard">
+  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/temporal-analysis.png" width="95%" alt="Temporal Analysis">
 </p>
 
 ---
@@ -156,7 +155,7 @@ The Observation Analysis page evaluates observer contribution, species coverage 
 - Observation intensity heatmap
 
 <p align="center">
-  <img src="screenshots/observation-analysis.png" width="95%" alt="Observation Analysis Dashboard">
+  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/observation-analysis.png" width="95%" alt="Observation Analysis">
 </p>
 
 ---
@@ -175,7 +174,7 @@ The Conservation Analysis module provides a conservation-oriented view of biodiv
 - Conservation recommendations
 
 <p align="center">
-  <img src="screenshots/conservation-analysis.png" width="95%" alt="Conservation Analysis Dashboard">
+  <img src="https://raw.githubusercontent.com/yashvardhanyadav2004-bot/Bird-species-observation-analysis/main/screenshots/conservation-analysis.png" width="95%" alt="Conservation Analysis">
 </p>
 
 ---
